@@ -1,0 +1,27 @@
+{
+  "name": "20k",
+  "version": "1.0.0",
+  "description": "Just a content site idea",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcogallen/20k.git"
+  },
+  "author": "Marco A. Gallen V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcogallen/20k/issues"
+  },
+  "homepage": "https://github.com/marcogallen/20k#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.74.0",
+    "url-parse": "^1.1.3"
+  }
+}
